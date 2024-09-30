@@ -3,6 +3,7 @@ a pipeline designed to filter and address orthologous gene heterogeneity, duplic
 ## dependencies
 - Pyhton 3
 - Biopython
+- The script execution also requires other software such as Mafft and IQ-TREE. If needed, users can download the OHDLF.yaml file to directly configure the environment. 
 ## Quick start
 ```
 Concatenation:
