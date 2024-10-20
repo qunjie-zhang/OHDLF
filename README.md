@@ -7,9 +7,9 @@ a pipeline designed to filter and address orthologous gene heterogeneity, duplic
 ## Quick start
 ```
 Concatenation:
-python OHDLF.py -l 0.1 -d 10 -s 95 -p 1
+python OHDLF.py -l 0.05 -d 6 -s 97 -p 1
 Coalescence:
-python OHDLF.py -l 0.1 -d 10 -s 95 -p 2
+python OHDLF.py -l 0.05 -d 6 -s 97 -p 2
 ```
 ## Usage
 Use it as a terminal command
