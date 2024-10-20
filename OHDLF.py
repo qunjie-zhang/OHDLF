@@ -726,7 +726,7 @@ if __name__ == "__main__":
                      help="Allowable max copy value")
     arg.add_argument("-s",
                      "--similarity",
-                     default=95,
+                     default=97,
                      required=False,
                      help="similarity value")
     arg.add_argument("-p", "--process_type",
